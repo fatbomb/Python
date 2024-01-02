@@ -1,0 +1,1 @@
+{"name":"Local: psl","url":"d:\\My Backup 1\\Fatbomb\\icpc\\DSA\\Python\\cf918\\cf\\psl.py","tests":[{"id":1704220342810,"input":"3\n6\nACBCBC\n7\nAAAAFPC\n22\nFEADBBDFFEDFFFDHHHADCC\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\My Backup 1\\Fatbomb\\icpc\\DSA\\Python\\cf918\\cf\\psl.py","group":"local","local":true}
